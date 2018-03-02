@@ -15,14 +15,16 @@
             </div>
             <div class="col-md-6">
                 <div class="form-group">
-                    <input type="email" class="form-control" name="email" autocomplete="off" id="email" placeholder="E-mail">
+                    <input type="email" class="form-control" name="email" autocomplete="off" id="email"
+                           placeholder="E-mail">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-12">
                 <div class="form-group">
-                    <textarea class="form-control textarea" rows="3" name="message" id="Message" placeholder="Message"></textarea>
+                    <textarea class="form-control textarea" rows="3" name="message" id="Message"
+                              placeholder="Message"></textarea>
                 </div>
             </div>
         </div>
